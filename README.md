@@ -37,7 +37,7 @@ A web-first dashboard for a WebSocket + Redis Pub/Sub messaging engine, with liv
 
 
 
-**[Live demo](#)** · **[Screenshots](#screenshots)** · **[Architecture](#architecture)** · **[Run locally](#run-locally)**
+**[Live demo](https://nexus-bus-delta.vercel.app)** · **[Screenshots](#screenshots)** · **[Architecture](#architecture)** · **[Run locally](#run-locally)**
 
 </div>
 
